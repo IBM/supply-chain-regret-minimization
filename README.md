@@ -29,3 +29,5 @@ example:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+
+[issues]: https://github.com/IBM/supply-chain-regret-minimization/issues
